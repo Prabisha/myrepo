@@ -1,4 +1,3 @@
 # myrepo
 testing my setup
-This is a line from RStudio
-This is a challenge for next one
+this is a test
